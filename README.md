@@ -37,9 +37,10 @@ included in all copies or substantial portions of the Software.
 
 Modified versions must be identified as such.
 
-If the sources of a sub-licensed versions of the software are disclosed under
-a different license, then permission is implicitely granted to incorporate the
-modifications to the original project, under the original license.
+If the sources of a sublicensed versions of the software are disclosed under
+a different license, then permission is implicitely granted by the
+contributors to incorporate the modifications to the original project, under
+the original license.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
