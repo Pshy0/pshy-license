@@ -1,4 +1,4 @@
-# pshy-license
+# PSHY License (PSHYL)
 A simple free license, based on the MIT License, compatible with all free and non-free licenses, unless they add restrictions on modified versions of the original work.
 
 This license also provides the option to, rather than including the whole license in all portions of the software, simply provide a reference instead, alongside the information from the copyright notice, with no format restriction.
@@ -10,6 +10,7 @@ Although less restrictive than the LGPL, it may not be compatible with the GPL (
 ```
 If the Program as you received it, or any part of it, contains a notice stating that it is governed by this License [the GPL] along with a term that is a further restriction, you may remove that term.
 ```
+Or in other words, the PSHYL allows to be included in works that has a different license as long as they recognize the component as having a different license, but the GPL does not allow it.
 
 
 
@@ -21,6 +22,9 @@ PSHY V0 License (currently a prototype, this is not the final version)
 
     Copyright (c) <year> <name> <email>
     <origin>
+
+This license applies to the project as a whole. It also applies to individual
+components by default, unless stated otherwise by the components.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
