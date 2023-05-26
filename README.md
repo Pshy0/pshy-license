@@ -32,14 +32,14 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The copyright owner information, and a reference to this license, shall be
+The copyright notice, and a reference to this license, shall be
 included in all copies or substantial portions of the Software.
 
 Modified versions must be identified as such.
 
 If the sources of a sublicensed version of the software are released under
 a different license, then the changes are also released with the original
-license. This does not prevent multi-licensing.
+license. This does not forbid multi-licensing.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
