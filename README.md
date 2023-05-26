@@ -6,6 +6,11 @@ This license also provides the option to, rather than including the whole licens
 It also enforce that modified versions of the program, but not the program implementing the licensed components, be released with the same license. Which means it can be used in a project licensed with another copyleft license, but changes to the components licensed under the PSHY License must remain under that license. For instance, if someone fix a bug in a function, this is not a big enough change to justify re-licensing the derived code under a different license, but adding it to an already functional program is enough.
 This license therefore does not create any incompatibility with any other license, except perhaps a few abusive ones.
 
+Although less restrictive than the LGPL, it may not be compatible with the GPL (and possibly not with the LGPL either as the LGPL allows sub-licensing under GPL), not because the PSHY License adds any restriction about that, but because of the following GPL statement:
+```
+If the Program as you received it, or any part of it, contains a notice stating that it is governed by this License [the GPL] along with a term that is a further restriction, you may remove that term.
+```
+
 
 
 # The License
@@ -30,9 +35,9 @@ shall be included in all copies or substantial portions of the Software.
 
 - Modified versions must be identified as such.
 
-- Modified versions must be released with the same license. This restriction
-only applies to individual components. It does not apply to the project using
-those components as a whole.
+- Modified versions must be released with the same license, or an equivalent
+license. This restriction only applies to individual components. It does not
+apply to the whole project using the PSHY-licensed components.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
