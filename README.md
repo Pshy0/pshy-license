@@ -18,10 +18,14 @@ Or in other words, the PSHYL allows to be included in works that has a different
 
 The license reads as follow:
 ```
-PSHY V0 License (currently a prototype, this is not the final version)
+# PSHY V0 License (currently a prototype, this is not the final version)
+
+## Copyright Notice
 
     Copyright (c) <year> <name> <email>
     <origin>
+
+## License Terms
 
 This license applies to the project as a whole. It also applies to individual
 components by default, unless stated otherwise by the components.
@@ -39,9 +43,9 @@ shall be included in all copies or substantial portions of the Software.
 
 - Modified versions must be identified as such.
 
-- Modified versions must be released with the same license, or an equivalent
-license. This restriction only applies to individual components. It does not
-apply to the whole project using the PSHY-licensed components.
+If the sources of a sub-licensed versions of the software are disclosed, then
+permission is implicitely granted to incorporate the changes to the original
+project, under the original license.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
