@@ -18,7 +18,7 @@ Or in other words, the PSHYL allows to be included in works that has a different
 
 The license reads as follow:
 ```
-PSHY V0 License (currently a prototype, this is not the final version)
+PSHY V0 License (modified MIT, not final)
 
 Copyright (c) <publication date> <holder> <contact> <reference to original work>
 
@@ -39,7 +39,7 @@ Modified versions must be identified as such.
 
 If the sources of a sublicensed version of the software are released under
 a different license, then the changes are also released with the original
-license. This does not forbid multi-licensing.
+license. This does not forbid multi-licensing the derived work.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
