@@ -1,16 +1,26 @@
-# PSHY License (PSHYL)
-A simple free license, based on the MIT License, compatible with all free and non-free licenses, unless they add restrictions on modified versions of the original work.
+# TFCL (True Free CopyLeft License) License
 
-This license also provides the option to, rather than including the whole license in all portions of the software, simply provide a reference instead, alongside the information from the copyright notice, with no format restriction.
+A simple free copyleft license, based on the MIT License.
 
-It also enforce that modified versions of the program, but not the program implementing the licensed components, be released with the same license. Which means it can be used in a project licensed with another copyleft license, but changes to the components licensed under the PSHY License must remain under that license. For instance, if someone fix a bug in a function, this is not a big enough change to justify re-licensing the derived code under a different license, but adding it to an already functional program is enough.
-This license therefore does not create any incompatibility with any other license, except perhaps a few abusive ones.
 
-Although less restrictive than the LGPL, it may not be compatible with the GPL (and possibly not with the LGPL either as the LGPL allows sub-licensing under GPL), not because the PSHY License adds any restriction about that, but because of the following GPL statement:
-```
-If the Program as you received it, or any part of it, contains a notice stating that it is governed by this License [the GPL] along with a term that is a further restriction, you may remove that term.
-```
-Or in other words, the PSHYL allows to be included in works that has a different license as long as they recognize the component as having a different license, but the GPL does not allow it.
+
+# Reasons and Purpose
+
+Most copyleft licenses pretend to be free. However, many prohibits the use of the licensed materials in some situations. This includes when you cannot release a modified source code (either for legal or safety reasons) or when you would like to use a different license, or add terms to the license. For instance, this is the case with the GNU GPL license, as it adds restrictions that violates the principles of a free software. While such a license is still permissive to some degree, it was not enough for me.
+
+The MIT license, in the other hand is too permissive. It allows the licensed work to be re-licensed, in a way that would make it non-free. I am not against my work being re-used, even in private projects, with proprietary licenses. But I find immoral that my work be re-used in a project that pretends to be free as well, while in reality, it, or a modified version of it, is re-licensed in a way that prevent even myself from re-using it the way I originally intended everyone to be able to use it.
+
+This fixes this issue in a very simple way: By requiring that all modifications to the original work can be pulled under the original license. Even if the work is re-licensed.
+
+In addition, I wanted to make this license even more permissive than the MIT license, by removing some requirements, to make integration easier. Instead of having to include this whole license into your project, you can use a reference to it. And you do not have to strictly respect the copyright notice format, as long as the information it contains remains.
+
+It also requires modified versions to be identified as such (That is just so bad modifications are not attributed to the original author).
+
+
+
+# TODO
+
+Currently, the license is only applicable to programs. I intend to make another version for any type of material.
 
 
 
@@ -18,12 +28,12 @@ Or in other words, the PSHYL allows to be included in works that has a different
 
 The license reads as follow:
 ```
-PSHY V0 License (modified MIT, not final)
+TFCL License (V0, not final)
 
-Copyright (c) <publication date> <holder> <contact> <reference to original work>
+Copyright (c) [<publication date>] [<holder>] [<contact>] [<original repo>]
 
-This license applies to the project as a whole. It also applies to individual
-components by default, unless stated otherwise by the components.
+This license applies to the licensed material, without intent to enforce any
+licencing to a project merely implementing it as a component.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -32,14 +42,15 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The copyright notice, and a reference to this license, shall be
+- The copyright notice information, and a reference to this license, shall be
 included in all copies or substantial portions of the Software.
 
-Modified versions must be identified as such.
-
-If the sources of a sublicensed version of the software are released under
+- If the sources of a sublicensed version of the Software are released under
 a different license, then the changes are also released with the original
-license alone. This does not forbid multi-licensing the derived work.
+license alone. If the changes are not submitted in a pull request to origin,
+then they are also released into public domain.
+
+- Modified versions must be identified as such.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -50,6 +61,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-The indented paragraph is the copyright notice. It does not have any specific format, the suggested fields are arbitrary.
+**NOTES:**
+- The copyright notice is the second paragraph.
+- The copyright notice does not have any specific format, but it is a good idea to include a contact information or a link to your original work.
+- I recommend keeping the `Copyright` word and all the copyright notice's fields on the same line, so it is clearer what constitutes the copyright notice. Or you can indent the whole paragraph to make it clearer.
 
-Parens after the license name may indicate a modified version of the license.
+
+
+# Trivia
+
+- I named the license `True Free CopyLeft` because it grants the rights a free license should grant, while mocking the copyleft licenses that does not.
