@@ -33,7 +33,7 @@ TFCL License (V0, not final)
 Copyright (c) [<publication date>] [<holder>] [<contact>] [<original repo>]
 
 This license applies to the licensed material, without intent to enforce any
-licencing to a project merely implementing it as a component.
+licensing to a project merely implementing it as a component.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
