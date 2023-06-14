@@ -28,7 +28,7 @@ Currently, the license is only applicable to programs. I intend to make another 
 
 The license reads as follow:
 ```
-TFCL License (V0, not final)
+TFCL License (https://github.com/Pshy0/pshy-license)
 
 Copyright (c) [<publication date>] [<holder>] [<contact>] [<original repo>]
 
