@@ -1,4 +1,4 @@
-# TFCL (True Free CopyLeft License) License
+# TFCL License (True Free CopyLeft License)
 
 A simple free copyleft license, based on the MIT License.
 
