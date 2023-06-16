@@ -1,4 +1,4 @@
-TFCL License (https://github.com/Pshy0/pshy-license)
+TFCL License (https://github.com/Pshy0/tfcl-license)
 
 Copyright (c) [<publication date>] [<holder>] [<contact>] [<original repo>]
 

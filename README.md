@@ -35,7 +35,7 @@ Most copyleft licenses pretend to be free. However, many prohibits the use of th
 The GNU GPL is a perfect example of such a fake-free license. For sure, it guarantees that the program stays open-source, but the additional restrictions about where, and, how you can use the licensed material, violates the principles of a free software.
 The goal of the GPL is not to encourage freedom. It is to give itself a monopole, by spreading like an infection. If you took the terms of the GPL to build your own license, it would not even be compatible with the GPL. That is a huge problem to me.
 
-The MIT license, in the other hand is too permissive. It allows the licensed work to be re-licensed, in a way that would make it non-free. I am not against my work being re-used, even in private projects, with proprietary licenses. But I find immoral that my work be re-used in a project that pretends to be free as well, while in reality, it, or a modified version of it, is re-licensed in a way that prevent, even myself, from re-using it the way I originally intended everyone to be able to.
+The MIT license, in the other hand, is too permissive. It allows the licensed work to be re-licensed, in a way that would make it non-free. I am not against my work being re-used, even in private projects, with proprietary licenses. But I find immoral that my work be re-used in a project that pretends to be free as well, while in reality, it, or a modified version of it, is re-licensed in a way that prevent, even myself, from re-using it the way I originally intended everyone to be able to.
 
 This fixes this issue in a very simple way: By requiring that all modifications to the original work are also released under the original license.
 
@@ -51,7 +51,7 @@ It also requires modified versions to be identified as such (That is just so bad
 
 The license reads as follow:
 ```
-TFCL License (https://github.com/Pshy0/pshy-license)
+TFCL License (https://github.com/Pshy0/tfcl-license)
 
 Copyright (c) [<publication date>] [<holder>] [<contact>] [<original repo>]
 
