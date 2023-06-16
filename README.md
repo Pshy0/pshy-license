@@ -4,31 +4,50 @@ A simple free copyleft license, based on the MIT License.
 
 
 
-# Reasons and Purpose
+## Status
 
-Most copyleft licenses pretend to be free. However, many prohibits the use of the licensed materials in some situations. This includes when you cannot release a modified source code (either for legal or safety reasons) or when you would like to use a different license, or add terms to the license. For instance, this is the case with the GNU GPL license, as it adds restrictions that violates the principles of a free software. While such a license is still permissive to some degree, it was not enough for me.
+This TFCL License is currently a work in progress.
+This is the changes I intent to make:
+ - Adapt the license's terms to fit all kind of materials (rather than just softwares).
+ - Simplify the license terms, to make it concise and easy to understand.
+ - Make it clear the words I use have no externally-defined legal meaning.
 
-The MIT license, in the other hand is too permissive. It allows the licensed work to be re-licensed, in a way that would make it non-free. I am not against my work being re-used, even in private projects, with proprietary licenses. But I find immoral that my work be re-used in a project that pretends to be free as well, while in reality, it, or a modified version of it, is re-licensed in a way that prevent even myself from re-using it the way I originally intended everyone to be able to use it.
 
-This fixes this issue in a very simple way: By requiring that all modifications to the original work can be pulled under the original license. Even if the work is re-licensed.
 
-In addition, I wanted to make this license even more permissive than the MIT license, by removing some requirements, to make integration easier. Instead of having to include this whole license into your project, you can use a reference to it. And you do not have to strictly respect the copyright notice format, as long as the information it contains remains.
+## Intents
+
+This describes the intents of this license. Future versions may be adapted to better fit them.
+ - Grant the rights commonly granted by free licenses.
+ - Grant the right to integrate any change, made to licensed materials, under TFCL.
+ - Grant the right to format the copyright notice as wished (helps integration).
+ - Grant the right to reference the license and not include it (helps integration).
+ - Do not spread the license to works integrating a TFCL component.
+
+
+
+## Reasons and Purpose
+
+Most copyleft licenses pretend to be free. However, many prohibits the use of the licensed materials in some situations. This includes the following scenarios:
+ - You cannot release sources (due to company policy, legal, or safety reasons).
+ - When you want to use a different license for your project.
+ - When you want to use components that have two different spreading licenses.
+
+The GNU GPL is a perfect example of such a fake-free license. For sure, it guarantees that the program stays open-source, but the additional restrictions about where, and, how you can use the licensed material, violates the principles of a free software.
+The goal of the GPL is not to encourage freedom. It is to give itself a monopole, by spreading like an infection. If you took the terms of the GPL to build your own license, it would not even be compatible with the GPL. That is a huge problem to me.
+
+The MIT license, in the other hand is too permissive. It allows the licensed work to be re-licensed, in a way that would make it non-free. I am not against my work being re-used, even in private projects, with proprietary licenses. But I find immoral that my work be re-used in a project that pretends to be free as well, while in reality, it, or a modified version of it, is re-licensed in a way that prevent, even myself, from re-using it the way I originally intended everyone to be able to.
+
+This fixes this issue in a very simple way: By requiring that all modifications to the original work are also released under the original license.
+
+But are you not allowed to sub-license the original work? The original, and all modifications, will abide by the TFCL, but you are allowed to add a TFCL component to a non-TFCL project. Let's say you create a project with only one component (the TFCL one), then you can release the project, as a whole, with a different license.
+
+In addition, I wanted to make crediting easier. Instead of having to include this whole license into your project, you can use a reference to it. And you do not have to strictly respect the copyright notice format, as long as the information it contains remains.
 
 It also requires modified versions to be identified as such (That is just so bad modifications are not attributed to the original author).
 
 
 
-# TODO
-
-Currently, the license is only applicable to programs. I intend to make another version for any type of material.
-
-The intent of this license is described in this document. Therefore, as long as it stay compatible with this intent, modifications may be done to the license.
-
-This is currently a work in progress. Proper versioning is planed to be done.
-
-
-
-# The License
+## The License
 
 The license reads as follow:
 ```
@@ -70,6 +89,6 @@ SOFTWARE.
 
 
 
-# Trivia
+## Trivia
 
 - I named the license `True Free CopyLeft` because it grants the rights a free license should grant, while mocking the copyleft licenses that does not.
