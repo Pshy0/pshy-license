@@ -29,8 +29,8 @@ This describes the intents of this license. Future versions may be adapted to be
 
 Most copyleft licenses pretend to be free. However, many prohibits the use of the licensed materials in some situations. This includes the following scenarios:
  - You cannot release sources (due to company policy, legal, or safety reasons).
- - When you want to use a different license for your project.
- - When you want to use components that have two different spreading licenses.
+ - You want to use a different license for your project.
+ - You need components that have different spreading copyleft licenses.
 
 The GNU GPL is a perfect example of such a fake-free license. For sure, it guarantees that the program stays open-source, but the additional restrictions about where, and, how you can use the licensed material, violates the principles of a free software.
 The goal of the GPL is not to encourage freedom. It is to give itself a monopole, by spreading like an infection. If you took the terms of the GPL to build your own license, it would not even be compatible with the GPL. That is a huge problem to me.
