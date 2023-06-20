@@ -55,15 +55,10 @@ In this case, it is not the TFCL license that removes this right from you.
 Read the license with markdown highlights: [TFCL License v0](./TFCL.md).
 
 **NOTES:**
-- The copyright notice is the second paragraph.
+- The copyright notice is the line with `Copyright`.
 - The copyright notice does not have any specific format, but it is a good idea to include a contact information or a link to your original work.
 - I recommend keeping the `Copyright` word and all the copyright notice's fields on the same line, so it is clearer what constitutes the copyright notice. Or you can indent the whole paragraph to make it clearer.
 - Keep the `.md` extension in the license file's name. This will cause the disclaimer of warranty and liability to be highlighted when visualized.
-
-
-
-## Trivia
-
 - I named the license `True Free CopyLeft` because it grants the rights a free license should grant, while mocking the copyleft licenses that does not.
 
 
