@@ -13,8 +13,11 @@
 TFCL License v0 (https://github.com/Pshy0/tfcl-license)
 
 Copyright (c) [<publication date>] [<holder>] [<contact>] [<original repo>]
+
 [Derived from <previous copyright>]
+
 [Derived from <previous previous copyright>]
+
 [...]
 
 
