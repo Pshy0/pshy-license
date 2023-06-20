@@ -13,12 +13,15 @@
 TFCL License v0 (https://github.com/Pshy0/tfcl-license)
 
 Copyright (c) [<publication date>] [<holder>] [<contact>] [<original repo>]
+[Derived from <previous copyright>]
+[Derived from <previous previous copyright>]
+[...]
 
 
 
 ## DISCLAIMERS
 
-The disclaimers thereafter limit the responsibility of the authors and distributor of the work, and license drafter. If permitted to redistribute the work, you may remove, add back, or limit the effect of those disclaimers, as long as you take all responsibilities, liabilities and consequences for it.
+If you make an authorized modified version of the work, and update the copyright notice appropriately, you may remove, add back, or limit the effect of the thereafter disclaimers, as long as you take all responsibilities and liabilities for it, and there is no consequence to the original copyright holder and authors. The original work remain under the original license, with the original disclaimers.
 
 ##### LICENSE LOCALIZATION
 This is a public license, disclosed worldwide, and there is no way for the drafter or licensor to know or adapt the work, or the license, to all present and future laws of all jurisdictions in the world.
