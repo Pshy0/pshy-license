@@ -19,6 +19,8 @@ TFCL License v0 (https://github.com/Pshy0/tfcl-license)
 
 
 
+If a newer version of the License exists, then it applies instead of this one, unless explicitly prohibited by the copyright holders.
+
 ## DISCLAIMERS
 
 If you make an authorized modified version of the work, and update the copyright notice appropriately, you may remove, add back, or limit the effect of the thereafter disclaimers, as long as you take all responsibilities and liabilities for it, and there is no consequence to the original copyright holder and authors. The original work remain under the original license, with the original disclaimers.
@@ -36,8 +38,6 @@ This is a public license, disclosed worldwide, and there is no way for the licen
 
 
 ## Scope
-
-If a newer version of the License exists, then it applies instead of this one, unless explicitly prohibited by the copyright holders.
 
 This license applies to the work as a whole, and to individual components by default, but individual components may be using a different license.
 
