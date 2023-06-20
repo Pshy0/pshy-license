@@ -40,7 +40,7 @@ This license applies to the work as a whole, and to individual components by def
 
 
 
-## Rights and obligations
+## Conditional Rights
 
 Provided that you comply with the requirements of the License, permission is granted, free of charge, to any person obtaining a copy of this work, to deal in the work without restriction, including the rights to use, copy, modify, merge, publish, distribute, sell copies of the work, or any combination of those rights.
 
