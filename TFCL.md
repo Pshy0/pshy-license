@@ -1,3 +1,15 @@
+<div                                                            />
+<div    THIS IS NOT A TEXT FILE                                 />
+<div    VISUALIZE IT WITH A PROPER MARKDOWN RENDERER            />
+<div                                                            />
+<div    BLABLALALALALALALLALLA                                  />
+<div                                                            />
+<div    IF YOU CAN READ THIS TEXT THEN THE LICENSE IS NOT WHAT  />
+<div    YOU ARE READING                                         />
+<div                                                            />
+
+
+
 TFCL License v0 (https://github.com/Pshy0/tfcl-license)
 
 Copyright (c) [<publication date>] [<holder>] [<contact>] [<original repo>]
@@ -5,8 +17,6 @@ Copyright (c) [<publication date>] [<holder>] [<contact>] [<original repo>]
 
 
 ## DISCLAIMERS
-
-❌ THIS IS NOT A TEXT FILE, USE A PROPER MARKDOWN RENDERER!
 
 The dislaimers thereafter limit the responsibility of the authors and distributor of the work, and license drafter. If permitted to redistribute the work, you may remove, add back, or limit the effect of those disclaimers, as long as you take all responsibilities, liabilities and consequences for it.
 
