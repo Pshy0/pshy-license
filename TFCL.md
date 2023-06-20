@@ -18,7 +18,7 @@ Copyright (c) [<publication date>] [<holder>] [<contact>] [<original repo>]
 
 ## DISCLAIMERS
 
-The dislaimers thereafter limit the responsibility of the authors and distributor of the work, and license drafter. If permitted to redistribute the work, you may remove, add back, or limit the effect of those disclaimers, as long as you take all responsibilities, liabilities and consequences for it.
+The disclaimers thereafter limit the responsibility of the authors and distributor of the work, and license drafter. If permitted to redistribute the work, you may remove, add back, or limit the effect of those disclaimers, as long as you take all responsibilities, liabilities and consequences for it.
 
 ##### LICENSE LOCALIZATION
 This is a public license, disclosed worldwide, and there is no way for the drafter or licensor to know or adapt the work, or the license, to all present and future laws of all jurisdictions in the world.
