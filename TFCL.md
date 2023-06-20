@@ -19,7 +19,7 @@ TFCL License v0 (https://github.com/Pshy0/tfcl-license)
 
 
 
-If a newer version of the License exists, then it applies instead of this one, unless explicitly prohibited by the copyright holders.
+If a newer version of the License exists, then it applies instead of this one, unless explicitly specified otherwise by the copyright holders.
 
 ## DISCLAIMERS
 
