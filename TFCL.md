@@ -24,7 +24,7 @@ TFCL License v0 (https://github.com/Pshy0/tfcl-license)
 If you make an authorized modified version of the work, and update the copyright notice appropriately, you may remove, add back, or limit the effect of the thereafter disclaimers, as long as you take all responsibilities and liabilities for it, and there is no consequence to the original copyright holder and authors. The original work remain under the original license, with the original disclaimers.
 
 ##### LICENSE LOCALIZATION
-This is a public license, disclosed worldwide, and there is no way for the drafter or licensor to know or adapt the work, or the license, to all present and future laws of all jurisdictions in the world.
+This is a public license, disclosed worldwide, and there is no way for the license drafter or licensor to know about all the implications of all present and future laws of all jurisdictions in the world.
 **SHOULD ANY PART OF THE LICENSE BE MADE VOID BY APPLICABLE LAW, THEN THE WORK IS NOT LICENSED TO YOU, AND ALL RIGHTS ON THE WORK REMAIN RESERVED.** **IT IS YOUR RESPONSIBILITY TO ENSURE YOUR LAW DOES NOT VIOLATE THE INTEGRITY OR INTENT OF THE LICENSE.**
 
 ##### DISCLAIMER OF WARRANTY
