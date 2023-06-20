@@ -3,7 +3,10 @@ TFCL License v0 (https://github.com/Pshy0/tfcl-license)
 Copyright (c) [<publication date>] [<holder>] [<contact>] [<original repo>]
 
 
+
 ## DISCLAIMERS
+
+❌ THIS IS NOT A TEXT FILE, USE A PROPER MARKDOWN RENDERER!
 
 The dislaimers thereafter limit the responsibility of the authors and distributor of the work, and license drafter. If permitted to redistribute the work, you may remove, add back, or limit the effect of those disclaimers, as long as you take all responsibilities, liabilities and consequences for it.
 
@@ -17,12 +20,18 @@ This is a public license, disclosed worldwide, and there is no way for the draft
 ##### DISCLAIMER OF LIABILITY
 ⚠️ [**IN NO EVENT WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR REDISTRIBUTES THE WORK, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE WORK (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE WORK TO OPERATE WITH ANY OTHER WORK), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.**](#)
 
+
+
 ## Scope
+
 If a newer version of the License exists, then it applies instead of this one, unless explicitly prohibited by the copyright holders.
 
 This license applies to the work as a whole, and to individual components by default, but individual components may be using a different license.
 
+
+
 ## Rights and obligations
+
 Provided that you comply with the requirements of the License, permission is granted, free of charge, to any person obtaining a copy of this work, to deal in the work without restriction, including the rights to use, copy, modify, merge, publish, distribute, sell copies of the work, or any combination of those rights.
 
 A derivative work does not need to be licensed under the same license, provided that it is substantially larger that the licensed work, or the licensed work is not part of it's core features. Otherwise, modified versions of the licensed work must be redistributed under the same license.
