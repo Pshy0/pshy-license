@@ -23,7 +23,7 @@ If a newer version of the License exists, then it applies instead of this one, u
 
 ## DISCLAIMERS
 
-If you make an authorized modified version of the work, and update the copyright notice appropriately, you may remove, add back, or limit the effect of the thereafter disclaimers, as long as you take all responsibilities and liabilities for it, and there is no consequence to the original copyright holder and authors. The original work remain under the original license, with the original disclaimers.
+If you make an authorized modified version of the work, and update the copyright notice appropriately, you may remove, add back, or limit the effect of the thereafter disclaimers, as long as you take all responsibilities and liabilities for it, and there is no consequence to the original copyright holder and authors. The original work remain under the original license, with the original disclaimers, which is how it is licensed to you.
 
 ##### LICENSE LOCALIZATION
 This is a public license, disclosed worldwide, and there is no way for the license drafter or licensor to know about all the implications of all present and future laws of all jurisdictions in the world.
