@@ -33,8 +33,8 @@ This is a public license, disclosed worldwide, and there is no way for the licen
 ##### DISCLAIMER OF LIABILITY
 ⚠️ [**IN NO EVENT WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR REDISTRIBUTES THE WORK, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE WORK (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE WORK TO OPERATE WITH ANY OTHER WORK), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.**](#)
 
-##### Derivative disclaimers
-If you make an authorized modified version of the work, and update the copyright notice appropriately, you may remove, add back, or limit the effect of the thereafter disclaimers, as long as you take all responsibilities and liabilities for it, and there is no consequence to the original copyright holder and authors. The original work remain licensed under the original license, with the original disclaimers.
+##### Remove or limit disclaimers in derivative works
+If you make an authorized modified version of the work, and update the copyright notice appropriately, you may remove, add back, or limit the effect of the above disclaimers, as long as you take all responsibilities and liabilities for it, and there is no consequence to the original copyright holder and authors. The original work remain licensed under the original license, with the original disclaimers.
 
 
 
