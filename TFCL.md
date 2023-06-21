@@ -36,7 +36,7 @@ This is a public license, disclosed worldwide, and there is no way for the licen
 ##### DISCLAIMER OF ENDORSEMENT
 The License does not provide or implies any right regarding the use of the name of any copyright holder or author.
 
-##### Modify disclaimers in derivative works
+##### Modifying disclaimers in derivative works
 If you make an authorized modified version of the work, and update the copyright notice appropriately, you may remove, add back, or limit the effect of the above disclaimers, as long as you take all responsibilities and liabilities for it, and there is no consequence to the original copyright holder and authors. The original work remain licensed under the original license, with the original disclaimers.
 
 
@@ -53,7 +53,7 @@ This License applies to the work as a whole, and it's individual components by d
 
 Provided that you comply with the requirements of the License, permission is granted, free of charge, to deal in the work without restriction, including the rights to use, copy, modify, merge, publish, distribute, sell copies of the work, or any combination of those rights.
 
-A derivative work does not need to be licensed under this same License, provided that it is substantially larger that the licensed work, the licensed work is not part of it's core features. Otherwise, modified versions of the licensed work must be redistributed under this same License.
+A derivative work does not need to be licensed under this same License, provided that it is substantially larger that the licensed work, or the licensed work is not part of it's core features. Otherwise, modified versions of the licensed work must be redistributed under this same License.
 
 To redistribute a work under this License, all information from the copyright notice, and a reference to this License, shall be included in all copies or substantial portions of the work.
 
