@@ -33,25 +33,28 @@ This is a public license, disclosed worldwide, and there is no way for the licen
 ##### DISCLAIMER OF LIABILITY
 ⚠️ [**IN NO EVENT WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR REDISTRIBUTES THE WORK, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE WORK (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE WORK TO OPERATE WITH ANY OTHER WORK), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.**](#)
 
-##### Remove or limit disclaimers in derivative works
+##### DISCLAIMER OF ENDORSEMENT
+The License does not provide or implies any right regarding the use of the name of any copyright holder or author.
+
+##### Modify disclaimers in derivative works
 If you make an authorized modified version of the work, and update the copyright notice appropriately, you may remove, add back, or limit the effect of the above disclaimers, as long as you take all responsibilities and liabilities for it, and there is no consequence to the original copyright holder and authors. The original work remain licensed under the original license, with the original disclaimers.
 
 
 
 ## Scope
 
-This license applies to the work as a whole, and to individual components by default, but individual components may be using a different license.
+This is a public license, delivered and addressed to anyone obtaining a copy of the licensed work.
+
+This License applies to the work as a whole, and it's individual components by default, but individual components may be using a different license.
 
 
 
 ## Conditional Rights
 
-Provided that you comply with the requirements of the License, permission is granted, free of charge, to any person obtaining a copy of this work, to deal in the work without restriction, including the rights to use, copy, modify, merge, publish, distribute, sell copies of the work, or any combination of those rights.
+Provided that you comply with the requirements of the License, permission is granted, free of charge, to deal in the work without restriction, including the rights to use, copy, modify, merge, publish, distribute, sell copies of the work, or any combination of those rights.
 
-A derivative work does not need to be licensed under the same license, provided that it is substantially larger that the licensed work, or the licensed work is not part of it's core features. Otherwise, modified versions of the licensed work must be redistributed under the same license.
+A derivative work does not need to be licensed under this same License, provided that it is substantially larger that the licensed work, the licensed work is not part of it's core features. Otherwise, modified versions of the licensed work must be redistributed under this same License.
 
-To distribute a work under this license, all information from the copyright notice, and a reference to this license, shall be included in all copies, modified copies, or substantial portions of the work.
+To redistribute a work under this License, all information from the copyright notice, and a reference to this License, shall be included in all copies or substantial portions of the work.
 
 Modified versions must be identified as such.
-
-The License does not implies any right regarding the use of the name of any copyright holder or contributor.
