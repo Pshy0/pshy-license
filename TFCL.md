@@ -19,42 +19,44 @@ TFCL License v0 (https://github.com/Pshy0/tfcl-license)
 
 
 
-If a newer version of the License exists, then it applies instead of this one, unless explicitly specified otherwise by the copyright holders.
-
-## DISCLAIMERS
-
-##### LICENSE LOCALIZATION
-This is a public license, disclosed worldwide, and there is no way for the license drafter or licensor to know about all the implications of all present and future laws of all jurisdictions in the world.
-**SHOULD ANY PART OF THE LICENSE BE MADE VOID BY APPLICABLE LAW, THEN THE WORK IS NOT LICENSED TO YOU, AND ALL RIGHTS ON THE WORK REMAIN RESERVED. IT IS YOUR RESPONSIBILITY TO ENSURE YOUR LAW DOES NOT VIOLATE THE INTEGRITY OR INTENT OF THE LICENSE.**
-
-##### DISCLAIMER OF WARRANTY
-⚠️ [**THIS WORK IS PROVIDED "AS IS", WITH ALL FAULTS, WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESSED, IMPLIED, STATUTORY, OR OTHERS, NOT EVEN WARRANTIES OF TITLE, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT KNOWN OR DISCOVERABLE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE WORK IS WITH YOU. SHOULD THE WORK PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.**](#)
-
-##### DISCLAIMER OF LIABILITY
-⚠️ [**IN NO EVENT WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR REDISTRIBUTES THE WORK, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE WORK (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE WORK TO OPERATE WITH ANY OTHER WORK), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.**](#)
-
-##### DISCLAIMER OF ENDORSEMENT
-The License does not provide or implies any right regarding the use of the name of any copyright holder or author.
-
-##### Modifying disclaimers in derivative works
-If you make an authorized modified version of the work, and update the copyright notice appropriately, you may remove, add back, or limit the effect of the above disclaimers, as long as you take all responsibilities and liabilities for it, and there is no consequence to the original copyright holder and authors. The original work remain licensed under the original license, with the original disclaimers.
-
-
-
 ## Scope
 
-This is a public license, delivered and addressed to anyone obtaining a copy of the licensed work.
+If a newer version of This License exists, then it applies instead of this one.
 
-This License applies to the work as a whole, and it's individual components by default, but individual components may be using a different license.
+This License is delivered and addressed to anyone obtaining a copy of the Licensed Work while respecting the other conditions of This License.
 
 
 
 ## Conditional Rights
 
-Provided that you comply with the requirements of the License, permission is granted, free of charge, to deal in the work without restriction, including the rights to use, copy, modify, merge, publish, distribute, sell copies of the work, or any combination of those rights.
+Provided that you fulfill the requirements of This License, 
+permission is granted, free of charge, to use, copy, modify, redistribute the Licensed Work, combine it as part of a larger work that use a different license, or any combination of those rights.
 
-A derivative work does not need to be licensed under this same License, provided that it is substantially larger that the licensed work, or the licensed work is not part of it's core features. Otherwise, modified versions of the licensed work must be redistributed under this same License.
-
-To redistribute a work under this License, all information from the copyright notice, and a reference to this License, shall be included in all copies or substantial portions of the work.
+Full or partial copies of the Licensed Work, modified or not, combined as part of a larger work or not, must be redistributed under This License.
 
 Modified versions must be identified as such.
+
+To redistribute a work under This License, all information from the copyright notice, and previous copyright notices, and a reference to This License, shall be included in all copies or portions of the work, whether modified or not.
+
+Is considered as a modified version of the Licensed Work, and never as a larger work, adaptations for your use, works with essentially the same purpose or use, minor modifications, and modifications not done in separate files.
+
+
+
+## DISCLAIMERS
+
+##### LICENSE LOCALIZATION
+This is a public license, disclosed worldwide, and there is no way for the license drafter or licensor to know about all the implications of all present and future laws of all jurisdictions in the world.
+**SHOULD ANY PART OF THE LICENSE BE MADE VOID BY APPLICABLE LAW, THEN THE COVERED WORK IS NOT LICENSED TO YOU, AND ALL RIGHTS ON IT REMAIN RESERVED. YOU MUST ASSERT THAT YOUR LAW DOES NOT VIOLATE THE INTEGRITY OR INTENT OF THE LICENSE.**
+The only exception for this is described in section "`Modifying disclaimers`".
+
+##### DISCLAIMER OF WARRANTY
+⚠️ [**THE COVERED WORK IS PROVIDED "AS IS", WITH ALL FAULTS, WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESSED, IMPLIED, STATUTORY, OR OTHERS, NOT EVEN WARRANTIES OF TITLE, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT KNOWN OR DISCOVERABLE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE COVERED WORK IS WITH YOU. SHOULD IT PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.**](#)
+
+##### DISCLAIMER OF LIABILITY
+⚠️ [**IN NO EVENT WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR REDISTRIBUTES THE COVERED WORK, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE IT (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE COVERED WORK TO OPERATE WITH ANY OTHER WORK), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.**](#)
+
+##### DISCLAIMER OF ENDORSEMENT
+This License does not provide or implies any right regarding the use of the name of any copyright holder or author.
+
+##### Modifying disclaimers
+If you copy the Covered Work, update the copyright notice appropriately, and take all responsibilities and liabilities for it, and there is no consequence to the original copyright holder and authors, you may add the term "`TO THE EXTEND PERMITTED BY LAW`" before the "`DISCLAIMER OF WARRANTY`" and/or the "`DISCLAIMER OF LIABILITY`". The original work remain licensed under the original license, with the original disclaimers. Anyone receiving This License may restore the disclaimers.
