@@ -39,7 +39,6 @@ Is considered as a modified version of the Licensed Work, and never as a larger 
 
 
 
-
 ## DISCLAIMERS
 
 ##### LICENSE LOCALIZATION
