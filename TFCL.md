@@ -27,16 +27,16 @@ This License is delivered and addressed to anyone obtaining a copy of the Licens
 
 ## Conditional Rights
 
-Provided that you fulfill the requirements of This License, 
-permission is granted, free of charge, to use, copy, modify, redistribute the Licensed Work, combine it as part of a larger work that use a different license, or any combination of those rights.
-
-Full or partial copies of the Licensed Work, modified or not, combined as part of a larger work or not, must be redistributed under This License.
-
-Modified versions must be identified as such.
+Provided that you fulfill the requirements of This License, permission is granted to:
+- Use the Licensed Work, privately or publicly.
+- Produce modified versions of the Licensed Work, marking them as such.
+- Copy and redistribute the whole or partial Licensed Work, under This License, even within a larger work.
+- Any combination of those rights.
 
 To redistribute a work under This License, all information from the copyright notice, and previous copyright notices, and a reference to This License, shall be included in all copies or portions of the work, whether modified or not.
 
 Is considered as a modified version of the Licensed Work, and never as a larger work, adaptations for your use, works with essentially the same purpose or use, minor modifications, and modifications not done in separate files.
+
 
 
 
