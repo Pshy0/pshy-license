@@ -19,8 +19,6 @@ TFCL License v0 (https://github.com/Pshy0/tfcl-license)
 
 
 
-## Scope
-
 If a newer version of This License exists, then it applies instead of this one.
 
 This License is delivered and addressed to anyone obtaining a copy of the Licensed Work while respecting the other conditions of This License.
